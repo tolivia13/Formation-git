@@ -54,5 +54,5 @@ po/*~
 rsconnect/
 
 # exclude pdf and html files
-.pdf
-.html
+*.pdf
+*.html
